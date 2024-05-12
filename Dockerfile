@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/k8s-dns-node-cache:1.15.13
+FROM nginx/nginx-ingress:3.5.1
