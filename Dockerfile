@@ -1,1 +1,1 @@
-FROM docker.io/kubernetesui/dashboard-auth:1.2.3
+FROM docker.io/library/kong:3.8
