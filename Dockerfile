@@ -1,1 +1,1 @@
-FROM docker.io/kubernetesui/dashboard-web:1.6.1
+FROM docker.io/calico/cni:v3.25.0
